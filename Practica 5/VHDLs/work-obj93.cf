@@ -1,0 +1,13 @@
+v 4
+file . "digital_clock.vhdl" "216c4b1a3f7880b4e39bc61d25fc1f4d3d468350" "20200514011336.352":
+  entity digital_clock at 1( 0) + 0 on 51;
+  architecture behavioral of digital_clock at 29( 549) + 0 on 52;
+file . "clk_div.vhdl" "ce496a22208e249657a03fd496906b36285e4c04" "20200514011256.282":
+  entity clk_div at 1( 0) + 0 on 47;
+  architecture behavioral of clk_div at 11( 173) + 0 on 48;
+file . "bin2hex.vhdl" "e7917c171bb40fcfab9200f3294f786a0e86c587" "20200514011320.805":
+  entity bin2hex at 1( 0) + 0 on 49;
+  architecture behavioral of bin2hex at 9( 171) + 0 on 50;
+file . "tb_digital_clock.vhdl" "faa78ed5fab6f7db282de6096266962515380dca" "20200514011351.148":
+  entity tb_digital_clock at 1( 0) + 0 on 53;
+  architecture behavior of tb_digital_clock at 7( 100) + 0 on 54;
